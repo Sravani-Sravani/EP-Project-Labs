@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="style3.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<nav>
+   <div class="menu-icon"><span class="fas fa-bars"></span></div>
+	<div class="logo"><h1>Fly High</h1></div>
+	<div class="nav-items">
+		<li><a href="home1.html">Home</a></li>
+		<li><a href="searchflight.html">Flights</a></li>
+		<li><a href="viewoffers.jsp">Offers</a></li>
+		<li><a href="tripideas.html">Trip Ideas</a></li>
+		<li><a href="contactus.html">Contact Us</a></li>
+		<li><a href="aboutus.html">About Us</a></li>
+	</div>
+	<form action="#">
+		<input type="search" class="search-data" placeholder="Search.." required>
+        <button type="submit"><i class="fa fa-search"></i></button>
+	</form>
+</nav>
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+</style>
+<body>
+<marquee direction="right" style=" background:#009933; font-size:20px" >
+	<h1 style="text-align:center; color: #b30000">Best Trip Ideas To Travel In Flights</h1>
+</marquee>
+
+<div class="column">
+    <div class="row">
+      <img class="demo cursor" src="11.jpg" style="width:60%"  onclick="currentSlide(1)">
+    </div>
+    <div class="row">
+      <img class="demo cursor" src="ab1.jpg" style="width:60%" onclick="currentSlide(2)">
+    </div>
+    <div class="row">
+      <img class="demo cursor" src="ab2.jpg" style="width:60%" onclick="currentSlide(3)">
+    </div>
+    <div class="row">
+      <img class="demo cursor" src="ab3.jpg" style="width:60%" onclick="currentSlide(4)">
+    </div>
+    <div class="row">
+      <img class="demo cursor" src="15.jpeg" style="width:60%" onclick="currentSlide(5)">
+    </div>    
+    <div class="row">
+      <img class="demo cursor" src="ab4.jpg" style="width:60%" onclick="currentSlide(6)">
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <img src="11.jpg" style="width:90%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <img src="ab1.jpg" style="width:90%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <img src="ab2.jpg" style="width:90%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <img src="ab3.jpg" style="width:90%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <img src="15.jpeg" style="width:90%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <img src="ab4.jpg" style="width:90%">
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="11.jpg" style="width:90%" onclick="currentSlide(1)" alt="The Woods">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="ab1.jpg" style="width:90%" onclick="currentSlide(2)" alt="Cinque Terre">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="ab2.jpg" style="width:90%" onclick="currentSlide(3)" alt="Mountains and fjords">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="ab3.jpg" style="width:90%" onclick="currentSlide(4)" alt="Northern Lights">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="15.jpeg" style="width:90%" onclick="currentSlide(5)" alt="Nature and sunrise">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="ab4.jpg" style="width:90%" onclick="currentSlide(6)" alt="Snowy Mountains">
+    </div>
+  </div>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+
+
+<style>
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<div class="jumbotron">
+<div class="row">
+  <div class="col-md-4">
+
+    <div class="thumbnail">
+    	<div class="desc"><h1>London and Paris</h1></div>
+      <a href="Video1.mp4" target="_blank">
+
+        <img src="lp2.jpg" alt="Lights" style="width:90%">
+        <div class="caption">
+
+          <p><h3>Click Here</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Krabi and Thailand</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="kt1.jpg" alt="Nature" style="width:97%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Kathmandu and Nepal</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="fn.jpg" alt="Fjords" style="width:106%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+   </div>
+  </div>
+
+
+<div class="jumbotron">
+ <div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Malacca and Malaysia</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="mm.jpg" alt="Lights" style="width:90%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Colombo and Sri Lanka</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="cs.jpg" alt="Nature" style="width:99%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Dubai and UAE</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="du.jpg" alt="Fjords" style="width:106%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+   </div>
+</div>
+
+<div class="jumbotron">
+   <div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Bangkok and Thailand</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="bt.jpg" alt="Lights" style="width:102%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Bali and Indonesia</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="bi2.jpg" alt="Nature" style="width:95%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+    	<div class="desc"><h1>Male and Maldives</h1></div>
+      <a href="Video1.mp4" target="_blank">
+        <img src="mal.jpg" alt="Fjords" style="width:105%">
+        <div class="caption">
+          <p><h3>Click Here</h3></p>
+        </div>
+      </a>
+    </div>
+  </div>
+   </div>
+
+
+ </div>
+ 
+      
+</div>
+ </div>
+
+</body>
+
+
+</html>
+
+
+</body>
+</html>

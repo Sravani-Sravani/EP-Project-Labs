@@ -1,0 +1,82 @@
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style3.css">
+	<!-- Bootstrap -->
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+
+ <link rel="stylesheet" href="searchflights.css">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+
+
+<nav>
+   <div class="menu-icon"><span class="fas fa-bars"></span></div>
+	<div class="logo"><h1>Fly High</h1></div>
+	<div class="nav-items">
+		<li><a href="home1.html">Home</a></li>
+		<li><a href="searchflight.html">Flights</a></li>
+		<li><a href="viewoffers.jsp">Offers</a></li>
+		<li><a href="tripideas.html">Trip Ideas</a></li>
+		<li><a href="contactus.html">Contact Us</a></li>
+		<li><a href="aboutus.html">About Us</a></li>
+	</div>
+	<form action="#">
+		<input type="search" class="search-data" placeholder="Search.." required>
+        <button type="submit"><i class="fa fa-search"></i></button>
+	</form>
+</nav>
+
+
+
+<div class="flight-engine">
+               <div class="container">
+                  <div class="tabing">
+                     <ul>
+                        <li><a class="active" href="#1"><i class="fa fa-plane" aria-hidden="true"></i> <b>Flight</b></a>
+                        </li>
+                     </ul>
+                     <form method="post" action="searchflights.jsp">
+                     <div class="tab-content">
+                        <div id="1" class="tab1 active">
+                           <div class="flight-tab row">
+                              <div class="persent-one">
+                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                 <input type="text" name="sfrom" class="textboxstyle" id="dep" placeholder="From City or airport" required>
+                              </div>
+                               &nbsp;&nbsp; &nbsp;&nbsp;
+                              <div class="persent-one">
+                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                 <input type="text" name="sto" class="textboxstyle" id="arival" placeholder="To City or airport" required>
+                              </div>
+                               &nbsp;&nbsp; &nbsp;&nbsp;
+                              <div class="persent-one less-per">
+                                 <input type="date" name="sfdate" class="textboxstyle" id="from-date1">
+                              </div>
+                               &nbsp;&nbsp; &nbsp;&nbsp;
+                              <div class="persent-one less-per">
+                                 <input type="date" name="stdate" class="textboxstyle" id="to-date">
+                              </div>
+                              &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+                              <div class="persent-one less-btn">
+                                 <button type="Submit" name="submit" value="Search" class="btn btn-info cst-btn" id="srch"><b>Search</b></button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                   
+                     </div>
+                       </form>
+                  </div>
+               </div>
+            </div>
+            </body>

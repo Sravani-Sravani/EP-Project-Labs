@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>User Home</title>
+</head>
+<body>
+
+<% out.println("<b>Welcome</b>"+" "+session.getAttribute("user_name")+"<br><br>");%>
+<a href="userhome">Home</a>&nbsp;&nbsp;&nbsp;
+
+<a href="logoutcheck.jsp">Logout</a><br><br>
+
+<% String str3=(String)session.getAttribute("strr1");
+String str4=(String)session.getAttribute("strr2");
+
+session.setAttribute("strr3",str3);
+session.setAttribute("strr4",str4);
+
+%>
+
+<a href="payment1.jsp" class="button" align="center">Proceed to Pay</a><br><br>
+
+
+</body>
+</html>

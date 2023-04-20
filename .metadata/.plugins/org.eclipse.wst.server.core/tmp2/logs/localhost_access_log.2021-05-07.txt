@@ -1,0 +1,7 @@
+127.0.0.1 - - [07/May/2021:13:30:55 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [07/May/2021:13:30:56 +0530] "GET /EP-Project/addoffers.html HTTP/1.1" 200 4406
+0:0:0:0:0:0:0:1 - - [07/May/2021:13:30:56 +0530] "GET /EP-Project/afstyle.css HTTP/1.1" 200 3112
+0:0:0:0:0:0:0:1 - - [07/May/2021:13:30:56 +0530] "GET /EP-Project/admin.jpg HTTP/1.1" 200 37703
+0:0:0:0:0:0:0:1 - - [07/May/2021:13:30:56 +0530] "GET /EP-Project/css/bootstrap.min.css HTTP/1.1" 404 1058
+0:0:0:0:0:0:0:1 - - [07/May/2021:13:30:56 +0530] "GET /EP-Project/background3.jpg HTTP/1.1" 200 22267
+0:0:0:0:0:0:0:1 - - [07/May/2021:13:30:57 +0530] "GET /favicon.ico HTTP/1.1" 404 1016

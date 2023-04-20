@@ -1,0 +1,337 @@
+
+Mar 09, 2021 14:21:32.13 NEW SESSION
+Mar 09, 2021 14:21:32.13 [23768:24568:0309/142132.127:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 09, 2021 14:21:32.75 [23768:27236:0309/142132.754:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 09, 2021 14:31:29.66 [0309/143129.663:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 09, 2021 20:01:33.97 NEW SESSION
+Mar 09, 2021 20:01:33.97 [14900:19576:0309/200133.968:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 09, 2021 20:01:34.75 [14900:24732:0309/200134.753:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 09, 2021 20:11:31.97 [0309/201131.976:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 09, 2021 21:15:41.75 NEW SESSION
+Mar 09, 2021 21:15:41.75 [7732:21972:0309/211541.754:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 09, 2021 21:15:42.26 [7732:12072:0309/211542.264:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 09, 2021 21:25:39.98 [0309/212539.982:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 09, 2021 22:38:32.50 [7732:8348:0309/223832.499:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:33.51 [7732:8348:0309/223833.510:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:34.52 [7732:8348:0309/223834.524:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:35.54 [7732:8348:0309/223835.544:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:36.56 [7732:8348:0309/223836.559:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:37.57 [7732:8348:0309/223837.577:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:38.59 [7732:8348:0309/223838.592:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:39.61 [7732:8348:0309/223839.610:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:40.62 [7732:8348:0309/223840.628:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:41.64 [7732:8348:0309/223841.640:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:42.65 [7732:8348:0309/223842.656:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:43.67 [7732:8348:0309/223843.672:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:44.69 [7732:8348:0309/223844.690:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:45.70 [7732:8348:0309/223845.706:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:46.71 [7732:8348:0309/223846.712:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:47.72 [7732:8348:0309/223847.719:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:38:48.73 [7732:8348:0309/223848.736:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:07.25 [7732:8348:0309/223907.255:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:08.26 [7732:8348:0309/223908.266:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:09.28 [7732:8348:0309/223909.283:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:10.30 [7732:8348:0309/223910.301:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:11.31 [7732:8348:0309/223911.317:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:12.33 [7732:8348:0309/223912.335:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:13.35 [7732:8348:0309/223913.350:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:14.36 [7732:8348:0309/223914.366:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:15.38 [7732:8348:0309/223915.383:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:16.39 [7732:8348:0309/223916.398:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:17.41 [7732:8348:0309/223917.412:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:31.69 [7732:8348:0309/223931.697:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:32.71 [7732:8348:0309/223932.712:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:33.72 [7732:8348:0309/223933.727:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:34.74 [7732:8348:0309/223934.745:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:35.76 [7732:8348:0309/223935.759:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:36.77 [7732:8348:0309/223936.776:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:37.79 [7732:8348:0309/223937.792:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:43.31 [7732:8348:0309/223943.311:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:44.32 [7732:8348:0309/223944.327:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:45.34 [7732:8348:0309/223945.342:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:46.35 [7732:8348:0309/223946.358:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:47.37 [7732:8348:0309/223947.376:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:48.39 [7732:8348:0309/223948.390:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:49.40 [7732:8348:0309/223949.406:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:50.42 [7732:8348:0309/223950.424:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:51.44 [7732:8348:0309/223951.444:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:52.46 [7732:8348:0309/223952.461:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:53.47 [7732:8348:0309/223953.474:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:39:54.49 [7732:8348:0309/223954.489:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:03.90 [7732:8348:0309/224003.906:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:04.92 [7732:8348:0309/224004.920:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:05.94 [7732:8348:0309/224005.940:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:06.95 [7732:8348:0309/224006.955:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:07.97 [7732:8348:0309/224007.970:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:08.98 [7732:8348:0309/224008.985:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:10.00 [7732:8348:0309/224010.005:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:11.02 [7732:8348:0309/224011.021:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:12.03 [7732:8348:0309/224012.037:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:13.05 [7732:8348:0309/224013.052:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:14.06 [7732:8348:0309/224014.066:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:15.08 [7732:8348:0309/224015.084:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:16.10 [7732:8348:0309/224016.105:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:17.11 [7732:8348:0309/224017.116:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:18.13 [7732:8348:0309/224018.133:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:19.15 [7732:8348:0309/224019.149:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:20.16 [7732:8348:0309/224020.165:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:21.18 [7732:8348:0309/224021.181:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:22.20 [7732:8348:0309/224022.198:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:23.21 [7732:8348:0309/224023.215:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:24.23 [7732:8348:0309/224024.231:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:45.17 [7732:8348:0309/224045.177:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+Mar 09, 2021 22:40:46.19 [7732:8348:0309/224046.192:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 1.141 s for first_image_paint 1.126 s
+
+Mar 10, 2021 07:37:51.66 NEW SESSION
+Mar 10, 2021 07:37:51.66 [4484:19188:0310/073751.656:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 10, 2021 07:37:51.92 [4484:13012:0310/073751.924:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 10, 2021 07:47:48.33 [0310/074748.330:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 10, 2021 10:24:36.64 NEW SESSION
+Mar 10, 2021 10:24:36.64 [240:27000:0310/102436.639:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 10, 2021 10:24:38.80 [240:26232:0310/102438.802:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 10, 2021 10:34:29.45 [0310/103429.450:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 11, 2021 19:19:20.94 NEW SESSION
+Mar 11, 2021 19:19:20.94 [19160:11312:0311/191920.940:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 11, 2021 19:19:21.53 [19160:29584:0311/191921.533:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 11, 2021 19:19:36.86 [19160:23268:0311/191936.863:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 11, 2021 19:19:36.86 [19160:23268:0311/191936.863:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Mar 11, 2021 19:19:57.68 [19160:23268:0311/191957.680:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Mar 11, 2021 19:20:04.92 [19160:23268:0311/192004.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 11, 2021 19:20:39.17 [19160:23268:0311/192039.170:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Mar 11, 2021 19:20:53.42 [19160:23268:0311/192053.422:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 11, 2021 19:21:26.04 [19160:23268:0311/192126.044:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 11, 2021 19:29:17.10 [0311/192917.100:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 13, 2021 07:33:23.22 NEW SESSION
+Mar 13, 2021 07:33:23.22 [19404:1304:0313/073323.221:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 13, 2021 07:33:23.54 [19404:5720:0313/073323.387:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 13, 2021 07:43:19.13 [0313/074319.139:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 13, 2021 08:03:43.01 [19404:15108:0313/080343.012:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Mar 13, 2021 09:19:02.84 NEW SESSION
+Mar 13, 2021 09:19:02.84 [11528:776:0313/091902.836:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 13, 2021 09:19:06.18 [11528:6704:0313/091906.188:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+
+Mar 15, 2021 21:51:34.90 NEW SESSION
+Mar 15, 2021 21:51:34.90 [12100:11376:0315/215134.901:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 15, 2021 21:51:36.39 [12100:5176:0315/215136.397:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 15, 2021 22:01:32.29 [0315/220132.296:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 16, 2021 11:27:18.09 NEW SESSION
+Mar 16, 2021 11:27:18.09 [8116:22156:0316/112718.089:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 16, 2021 11:27:18.13 [8116:2992:0316/112718.130:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 16, 2021 11:35:55.91 [2184:9756:0316/113555.910:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 16, 2021 11:35:55.94 [2184:9704:0316/113555.944:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 16, 2021 11:45:55.67 [0316/114555.669:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 16, 2021 13:46:57.89 NEW SESSION
+Mar 16, 2021 13:46:57.89 [15160:16692:0316/134657.894:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 16, 2021 13:46:59.38 [15160:5172:0316/134659.378:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 16, 2021 13:51:44.21 [13112:9828:0316/135144.211:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 16, 2021 13:51:44.24 [13112:14712:0316/135144.247:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 16, 2021 14:01:43.97 [0316/140143.969:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 17, 2021 07:41:51.09 NEW SESSION
+Mar 17, 2021 07:41:51.09 [24096:22748:0317/074151.094:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 17, 2021 07:41:51.55 [24096:18652:0317/074151.555:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 17, 2021 07:42:59.40 [24096:19240:0317/074259.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 17, 2021 07:43:44.37 [24096:19240:0317/074344.375:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Mar 17, 2021 07:43:51.45 [24096:14096:0317/074351.453:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 17, 2021 07:44:54.30 [24096:19240:0317/074454.301:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2021 07:45:09.46 [24096:23780:0317/074509.464:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 17, 2021 07:45:49.58 [24096:19240:0317/074549.585:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2021 07:51:42.46 [0317/075142.458:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 17, 2021 09:23:10.39 NEW SESSION
+Mar 17, 2021 09:23:10.39 [5192:23628:0317/092310.386:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 17, 2021 09:23:12.82 [5192:9028:0317/092312.827:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 17, 2021 09:33:06.19 [0317/093306.188:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 17, 2021 18:16:30.23 NEW SESSION
+Mar 17, 2021 18:16:30.23 [25136:22740:0317/181630.232:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 17, 2021 18:16:30.84 [25136:3552:0317/181630.849:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 17, 2021 18:26:27.79 [0317/182627.795:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 18, 2021 10:35:49.09 NEW SESSION
+Mar 18, 2021 10:35:49.09 [14540:13648:0318/103549.093:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 18, 2021 10:35:49.27 [14540:25656:0318/103549.111:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 18, 2021 10:43:28.93 [14540:18580:0318/104328.931:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 10:43:57.47 [14540:18580:0318/104357.478:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 10:44:45.96 [14540:18580:0318/104445.961:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 10:45:45.14 [0318/104545.145:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 18, 2021 10:46:14.74 [14540:18580:0318/104614.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 18, 2021 13:50:23.60 NEW SESSION
+Mar 18, 2021 13:50:23.60 [16764:25100:0318/135023.605:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 18, 2021 13:50:23.92 [16764:22984:0318/135023.927:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 18, 2021 14:00:23.28 [0318/140023.286:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 18, 2021 21:35:30.81 NEW SESSION
+Mar 18, 2021 21:35:30.81 [18644:22708:0318/213530.805:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 18, 2021 21:35:34.87 [18644:27984:0318/213534.872:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 18, 2021 21:45:23.00 [0318/214522.999:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 19, 2021 13:34:42.96 NEW SESSION
+Mar 19, 2021 13:34:42.96 [9448:5216:0319/133442.960:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 19, 2021 13:34:43.45 [9448:13116:0319/133443.457:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 19, 2021 13:44:39.18 [0319/134439.187:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 19, 2021 20:49:41.45 NEW SESSION
+Mar 19, 2021 20:49:41.45 [1432:11932:0319/204941.458:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 19, 2021 20:49:42.17 [1432:8104:0319/204942.176:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 19, 2021 20:59:39.19 [0319/205939.195:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 19, 2021 22:00:33.04 [1432:9604:0319/220033.047:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2021 22:00:53.31 [1432:9604:0319/220053.311:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2021 22:01:39.55 [1432:9604:0319/220139.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2021 22:03:36.75 [1432:9604:0319/220336.756:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 19, 2021 22:06:33.95 [1432:9604:0319/220633.956:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 20, 2021 09:43:18.19 NEW SESSION
+Mar 20, 2021 09:43:18.19 [14992:8612:0320/094318.192:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 20, 2021 09:43:19.06 [14992:704:0320/094319.061:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 20, 2021 09:53:14.56 [0320/095314.565:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 20, 2021 10:13:37.40 [14992:2148:0320/101337.408:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Mar 20, 2021 14:56:35.96 NEW SESSION
+Mar 20, 2021 14:56:35.96 [1304:10120:0320/145635.957:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 20, 2021 14:56:36.61 [1304:3564:0320/145636.614:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+
+Mar 20, 2021 15:31:10.45 NEW SESSION
+Mar 20, 2021 15:31:10.45 [12916:6584:0320/153110.449:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 20, 2021 15:31:10.51 [12916:13380:0320/153110.492:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 20, 2021 15:41:08.05 [0320/154108.052:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 22, 2021 19:13:53.81 NEW SESSION
+Mar 22, 2021 19:13:53.81 [6356:7908:0322/191353.815:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 22, 2021 19:13:54.61 [6356:17448:0322/191354.610:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 22, 2021 19:23:51.23 [0322/192351.232:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 22, 2021 19:28:48.87 [6356:9472:0322/192848.869:ERROR:CONSOLE(0)] "Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.", source: https://data-flair.training/blogs/jsp-session-tracking-techniques/ (0)
+
+Mar 22, 2021 21:58:09.03 NEW SESSION
+Mar 22, 2021 21:58:09.03 [18880:18356:0322/215809.032:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 22, 2021 21:58:10.07 [18880:11604:0322/215810.073:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 22, 2021 21:58:11.66 Opening in existing browser session.
+Mar 22, 2021 21:58:22.92 [18880:13576:0322/215822.919:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2021 21:58:43.92 [18880:13576:0322/215843.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2021 21:59:34.59 [18880:13576:0322/215934.598:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 22, 2021 22:08:05.86 [0322/220805.867:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 23, 2021 11:11:10.58 NEW SESSION
+Mar 23, 2021 11:11:10.58 [8944:17652:0323/111110.577:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 23, 2021 11:11:11.00 [8944:19688:0323/111111.005:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 23, 2021 11:21:06.45 [0323/112106.454:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 27, 2021 08:48:20.40 NEW SESSION
+Mar 27, 2021 08:48:20.40 [5192:8484:0327/084820.398:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 27, 2021 08:48:20.44 [5192:5652:0327/084820.444:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 27, 2021 08:58:20.16 [0327/085820.158:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 27, 2021 09:41:25.41 NEW SESSION
+Mar 27, 2021 09:41:25.41 [19196:23328:0327/094125.409:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 27, 2021 09:41:25.46 [19196:18992:0327/094125.461:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 27, 2021 09:51:25.12 [0327/095125.126:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 27, 2021 10:59:40.58 NEW SESSION
+Mar 27, 2021 10:59:40.58 [14264:4236:0327/105940.584:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 27, 2021 10:59:40.94 [14264:15852:0327/105940.944:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 27, 2021 11:09:32.49 [0327/110932.493:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 27, 2021 11:59:40.25 NEW SESSION
+Mar 27, 2021 11:59:40.25 [872:9388:0327/115940.255:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 27, 2021 11:59:40.31 [872:8892:0327/115940.289:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 27, 2021 12:06:57.28 [10212:4216:0327/120657.289:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 27, 2021 12:06:57.34 [10212:4352:0327/120657.343:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 27, 2021 12:16:57.01 [0327/121657.008:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 27, 2021 12:22:08.26 [10212:8028:0327/122208.266:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Mar 30, 2021 11:25:10.20 NEW SESSION
+Mar 30, 2021 11:25:10.20 [11200:14772:0330/112510.196:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 30, 2021 11:25:11.26 [11200:15928:0330/112511.261:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 30, 2021 11:35:07.83 [0330/113507.832:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 30, 2021 11:48:49.29 [11200:9236:0330/114849.296:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Mar 30, 2021 11:48:55.12 [11200:9236:0330/114855.125:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 30, 2021 11:49:04.03 [11200:9236:0330/114904.036:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Mar 31, 2021 15:10:28.47 NEW SESSION
+Mar 31, 2021 15:10:28.47 [9304:15804:0331/151028.471:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 31, 2021 15:10:29.18 [9304:10460:0331/151029.180:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 31, 2021 15:20:21.09 [0331/152021.094:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 31, 2021 16:43:44.36 NEW SESSION
+Mar 31, 2021 16:43:44.36 [17104:17060:0331/164344.361:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 31, 2021 16:43:44.85 [17104:5748:0331/164344.852:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 31, 2021 16:53:35.56 [0331/165335.558:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 31, 2021 18:41:57.77 NEW SESSION
+Mar 31, 2021 18:41:57.77 [20004:20248:0331/184157.771:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 31, 2021 18:41:58.25 [20004:17020:0331/184158.012:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 31, 2021 18:51:50.40 [0331/185150.407:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Mar 31, 2021 20:19:04.05 NEW SESSION
+Mar 31, 2021 20:19:04.05 [4480:15320:0331/201904.056:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 31, 2021 20:19:04.28 [4480:4300:0331/201904.238:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 31, 2021 20:19:17.27 [4480:14964:0331/201917.270:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:19:40.96 [12036:14724:0331/201940.962:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 31, 2021 20:19:41.00 [12036:10184:0331/201941.001:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 31, 2021 20:19:44.00 [12036:11924:0331/201944.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:20:13.57 [12036:11924:0331/202013.571:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:21:00.70 [12036:11924:0331/202100.701:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:23:00.42 [12036:11924:0331/202300.425:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:26:50.29 [12036:11924:0331/202650.295:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:29:40.72 [0331/202940.724:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Mar 31, 2021 20:32:30.98 [12036:11924:0331/203230.980:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 31, 2021 20:39:58.49 [16216:10000:0331/203958.492:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Mar 31, 2021 20:39:58.53 [16216:16204:0331/203958.535:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Mar 31, 2021 20:49:58.21 [0331/204958.208:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 01, 2021 13:43:27.27 NEW SESSION
+Apr 01, 2021 13:43:27.27 [14876:15488:0401/134327.269:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 01, 2021 13:43:27.57 [14876:17056:0401/134327.296:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 01, 2021 13:52:11.66 [14876:18768:0401/135211.661:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Apr 01, 2021 13:53:25.57 [0401/135325.576:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 03, 2021 07:37:12.75 NEW SESSION
+Apr 03, 2021 07:37:12.75 [6408:19988:0403/073712.747:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 03, 2021 07:37:12.82 [6408:21840:0403/073712.769:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+
+Apr 03, 2021 13:58:24.27 NEW SESSION
+Apr 03, 2021 13:58:24.27 [3792:18584:0403/135824.270:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 03, 2021 13:58:25.79 [3792:20536:0403/135825.793:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 03, 2021 14:08:18.26 [0403/140818.259:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 03, 2021 19:18:29.78 NEW SESSION
+Apr 03, 2021 19:18:29.78 [18116:2724:0403/191829.782:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 03, 2021 19:18:30.38 [18116:19704:0403/191830.380:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 03, 2021 19:18:40.49 [18116:17480:0403/191840.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2021 19:18:49.01 [18116:17480:0403/191849.010:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 03, 2021 19:28:29.08 [0403/192829.080:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 04, 2021 07:44:59.79 NEW SESSION
+Apr 04, 2021 07:44:59.79 [23340:23784:0404/074459.787:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 04, 2021 07:45:00.13 [23340:9568:0404/074459.847:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 04, 2021 07:54:58.91 [0404/075458.914:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 06, 2021 10:27:14.46 NEW SESSION
+Apr 06, 2021 10:27:14.46 [13360:19772:0406/102714.462:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 06, 2021 10:27:14.51 [13360:23568:0406/102714.510:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 06, 2021 10:37:14.22 [0406/103714.226:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 08, 2021 13:48:49.93 NEW SESSION
+Apr 08, 2021 13:48:49.93 [14536:10608:0408/134849.934:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 08, 2021 13:48:50.50 [14536:5688:0408/134850.503:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 08, 2021 13:58:46.18 [0408/135846.180:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+Apr 09, 2021 20:24:05.65 NEW SESSION
+Apr 09, 2021 20:24:05.65 [12760:6200:0409/202405.655:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+Apr 09, 2021 20:24:05.92 [12760:2836:0409/202405.684:ERROR:external_registry_loader_win.cc(159)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+Apr 09, 2021 20:34:02.50 [0409/203402.499:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+
+May 29, 2021 21:13:02.50 NEW SESSION
+May 29, 2021 21:13:02.50 [7556:6216:0529/211302.503:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105993596406565367817
+May 29, 2021 21:13:03.25 [7556:15268:0529/211303.251:ERROR:external_registry_loader_win.cc(158)] File C:\Program Files (x86)\Automation Anywhere\Enterprise\Client\ChromeExtension.crx for key Software\Google\Chrome\Extensions\akaagfbdekcffpppnbajieljleihifdc does not exist or is not readable.
+May 29, 2021 21:13:15.69 [7556:6148:0529/211315.691:ERROR:device_event_log_impl.cc(214)] [21:13:15.692] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 29, 2021 21:13:15.69 [7556:6148:0529/211315.692:ERROR:device_event_log_impl.cc(214)] [21:13:15.693] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

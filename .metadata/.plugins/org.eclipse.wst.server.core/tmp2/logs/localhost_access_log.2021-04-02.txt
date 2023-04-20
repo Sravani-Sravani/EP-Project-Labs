@@ -1,0 +1,9 @@
+127.0.0.1 - - [02/Apr/2021:14:23:05 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:08 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 9332
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:08 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:11 +0530] "GET /EP-Project/viewcontactdetails.jsp HTTP/1.1" 200 8187
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:14 +0530] "GET /EP-Project/sendemail.jsp?kadavakollusravani2001@gmail.com HTTP/1.1" 200 1560
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:14 +0530] "GET /EP-Project/contact.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:14 +0530] "GET /EP-Project/contactus.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:46 +0530] "POST /EP-Project/maildemo.jsp HTTP/1.1" 200 108
+0:0:0:0:0:0:0:1 - - [02/Apr/2021:14:23:49 +0530] "GET /EP-Project/viewcontactdetails.jsp HTTP/1.1" 200 8187

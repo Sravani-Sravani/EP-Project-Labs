@@ -1,0 +1,12 @@
+127.0.0.1 - - [26/May/2021:20:54:39 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/May/2021:20:54:45 +0530] "GET /EP-Project/userlogin.jsp HTTP/1.1" 200 3834
+0:0:0:0:0:0:0:1 - - [26/May/2021:20:54:46 +0530] "GET /EP-Project/flyhigh4.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/May/2021:20:54:46 +0530] "GET /EP-Project/userstyle.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/May/2021:20:54:46 +0530] "GET /EP-Project/sourcesanspro-font.css HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [26/May/2021:20:54:47 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [26/May/2021:21:16:52 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 12768
+0:0:0:0:0:0:0:1 - - [26/May/2021:21:17:12 +0530] "GET /EP-Project/deleteuser.jsp?id=84808 HTTP/1.1" 500 2697
+0:0:0:0:0:0:0:1 - - [26/May/2021:21:18:53 +0530] "GET /EP-Project/deleteuser.jsp?id=84808 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2021:21:18:54 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 12387
+0:0:0:0:0:0:0:1 - - [26/May/2021:21:19:07 +0530] "GET /EP-Project/deleteuser.jsp?id=39985 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2021:21:19:07 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 12003

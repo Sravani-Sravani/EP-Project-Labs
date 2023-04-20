@@ -1,0 +1,6 @@
+127.0.0.1 - - [04/Apr/2021:07:44:53 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:07:45:12 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 10653
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:07:45:13 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:07:45:58 +0530] "GET /EP-Project/searchusers.jsp HTTP/1.1" 200 7270
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:07:47:14 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 10666
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:07:47:15 +0530] "GET /EP-Project/viewusers.jsp HTTP/1.1" 200 10666

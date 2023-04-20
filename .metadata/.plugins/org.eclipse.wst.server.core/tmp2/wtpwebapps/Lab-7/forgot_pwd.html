@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Forgot Pwd Page</title>
+<script>
+function validate()
+{
+  var pwd=document.f.pwd.value;
+  if(pwd.length==0)
+    {
+    alert("Password should be required");
+    document.f.pwd.focus();
+    return false;
+    }
+}
+</script>
+</head>
+<body bgcolor="lightblue">
+<center>
+<form name="f" method="post" action="forgot_pwd_check.jsp" onsubmit="return validate()">
+<input type="password" name="pwd" placeholder="Enter New Password"><br><br>
+<input type="password" name="pwdc" placeholder="Confirm Password"><br><br>
+<input type="submit"  placeholder="Submit">
+</form>
+</center>
+
+</body>
+</html>

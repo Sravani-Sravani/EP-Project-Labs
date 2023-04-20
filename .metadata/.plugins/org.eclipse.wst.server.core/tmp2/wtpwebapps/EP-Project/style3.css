@@ -1,0 +1,99 @@
+@charset "ISO-8859-1";
+body{
+	background: #FAFAD2;
+	/*background-image: url(12.jpg);*/
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+nav{
+	background: #171c24;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	height: 70px;
+	padding: 0 100px;
+}
+nav .logo
+{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: -1px;
+}
+nav .nav-items
+{
+	display: flex;
+	flex: 1;
+	list-style:none;
+	padding: 0 0 0 40px;
+}
+nav .nav-items li
+{
+	padding: 0 15px;
+}
+nav .nav-items li a{
+	color: #fff;
+	text-decoration: none;
+	font-weight: 500;
+	font-size: 18px;
+}
+nav .nav-items li a:hover
+{
+	color: #ff1a53;
+}
+nav form{
+	display: flex;
+	height: 35px;
+	background-color: #1e232b;
+	border-radius: 2px;
+	padding: 2px;
+
+}
+nav form input{
+	height: 100%;
+	width: 100%;
+
+}
+nav form .search-data{
+	padding: 0 10px;
+	color: #fff;
+	background: none;
+	border:none;
+	font-weight: 500;
+}
+nav form button
+{
+	padding: 0 15px;
+	background:#ff1a53;
+	border:none;
+	cursor: pointer;
+	font-size: 17px;
+	color: #fff;
+	border-radius: 2px;
+}
+nav .menu-icon,
+nav .search-icon,
+nav .cancel-icon
+{
+	width: 40px;
+	color: #fff;
+	text-align: center;
+	margin: 0 50px;
+	font-size: 18px;
+	cursor: pointer;
+	display: none;
+}
+nav .menu-icon span,
+nav .search-icon,
+nav .cancel-icon
+{
+display: none;
+}
+@media query
+{
+	
+}
+

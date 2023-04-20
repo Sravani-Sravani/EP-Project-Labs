@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.bsh-2.0.0.b4.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.commonj-1.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.edu.emory.mathcs.backport-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.codehaus.groovy-1.6.5.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.jruby-1.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/com.springsource.org.quartz-1.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/hibernate-core-3.6.7.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jamon-2.7.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/javassist.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jmxremote.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jmxremote_optional.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jmxri.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jotm.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/persistence.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/xapool.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Enterprise Programming/Spring with Hibernate Jar Files/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
